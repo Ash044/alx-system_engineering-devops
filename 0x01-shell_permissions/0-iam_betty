@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "sudo - betty -c "comand""
+su betty
