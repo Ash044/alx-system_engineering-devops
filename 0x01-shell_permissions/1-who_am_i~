@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+whoami
+=======
+whoami 
+>>>>>>> 9970158136eb411b59b0a966669d86f5e83332cf
